@@ -1,8 +1,10 @@
-## Add I3 config
-```
-pacman -S i3 picom  
-```
+## Copy I3 Config
+
 Install depedencial
+
+```
+pacman -S i3 i3-gaps picom  
+```
 
 ```
 mv rofi-themes-collection/i3/config $HOME/.config/i3/config
