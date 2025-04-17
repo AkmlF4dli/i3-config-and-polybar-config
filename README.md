@@ -39,8 +39,8 @@ a window, or options provided by an external script. You can learn more about Ro
 
 1. Clone this repository and change to its directory:
 ```
-git clone https://github.com/lr-tech/rofi-themes-collection.git
-cd rofi-themes-collection
+git clone https://github.com/AkmlF4dli/i3-config-and-polybar-config.git
+cd i3-config-and-polybar-config
 ```
 
 2. If you don't have the directories needed for the install create them with:
